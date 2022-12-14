@@ -1,0 +1,485 @@
+/* @keyframes animasi {
+    0% {background: url(/Science/animasi/0.png);}
+    2% {background: url(/Science/animasi/1.png);}
+    4% {background: url(/Science/animasi/2.png);}
+    6% {background: url(/Science/animasi/3.png);}
+    8% {background: url(/Science/animasi/4.png);}
+    10% {background: url(/Science/animasi/5.png);}
+    12% {background: url(/Science/animasi/6.png);}
+    14% {background: url(/Science/animasi/7.png);}
+    16% {background: url(/Science/animasi/8.png);}
+    18% {background: url(/Science/animasi/9.png);}
+    20% {background: url(/Science/animasi/10.png);}
+    22% {background: url(/Science/animasi/11.png);}
+    24% {background: url(/Science/animasi/12.png);}
+    26% {background: url(/Science/animasi/13.png);}
+    28% {background: url(/Science/animasi/14.png);}
+    30% {background: url(/Science/animasi/15.png);}
+    32% {background: url(/Science/animasi/16.png);}
+    34% {background: url(/Science/animasi/17.png);}
+    36% {background: url(/Science/animasi/18.png);}
+    38% {background: url(/Science/animasi/19.png);}
+    40% {background: url(/Science/animasi/20.png);}
+    42% {background: url(/Science/animasi/21.png);}
+    44% {background: url(/Science/animasi/22.png);}
+    46% {background: url(/Science/animasi/23.png);}
+    48% {background: url(/Science/animasi/24.png);}
+    50% {background: url(/Science/animasi/25.png);}
+    52% {background: url(/Science/animasi/26.png);}
+    54% {background: url(/Science/animasi/27.png);}
+    56% {background: url(/Science/animasi/28.png);}
+    58% {background: url(/Science/animasi/29.png);}
+    60% {background: url(/Science/animasi/30.png);}
+    62% {background: url(/Science/animasi/31.png);}
+    64% {background: url(/Science/animasi/32.png);}
+    66% {background: url(/Science/animasi/33.png);}
+    68% {background: url(/Science/animasi/34.png);}
+    70% {background: url(/Science/animasi/35.png);}
+    72% {background: url(/Science/animasi/36.png);}
+    74% {background: url(/Science/animasi/37.png);}
+    76% {background: url(/Science/animasi/38.png);}
+    78% {background: url(/Science/animasi/39.png);}
+    80% {background: url(/Science/animasi/40.png);}
+    81% {background: url(/Science/animasi/41.png);}
+    82% {background: url(/Science/animasi/42.png);}
+    84% {background: url(/Science/animasi/43.png);}
+    86% {background: url(/Science/animasi/44.png);}
+    87% {background: url(/Science/animasi/45.png);}
+    88% {background: url(/Science/animasi/46.png);}
+    90% {background: url(/Science/animasi/47.png);}
+    92% {background: url(/Science/animasi/48.png);}
+    94% {background: url(/Science/animasi/49.png);}
+    96% {background: url(/Science/animasi/50.png);}
+    98% {background: url(/Science/animasi/51.png);}
+    100% {background: url(/Science/animasi/52.png);}
+  }
+
+  .help {
+    width: 100%;
+    position: relative;
+    background-color: black;
+    animation-name: tes;
+    animation:infinite;
+    animation-duration: 60s;
+    animation-iteration-count: infinite;
+    animation-delay:5s;
+  } */
+
+  /* transform: scale(1); */
+  #help{animation: changeBg 100s infinite; width:98vw; height: 98vh; transition-timing-function:linear;}
+@keyframes changeBg{
+  0% {background: url(/Science/animasi/0.png); background-size:100% 100%;}
+  2% {background: url(/Science/animasi/1.png); background-size:100% 100%;}
+  4% {background: url(/Science/animasi/2.png); background-size:100% 100%;}
+  6% {background: url(/Science/animasi/3.png); background-size:100% 100%;}
+  8% {background: url(/Science/animasi/4.png); background-size:100% 100%;}
+  10% {background: url(/Science/animasi/5.png); background-size:100% 100%;}
+  12% {background: url(/Science/animasi/6.png); background-size:100% 100%;}
+  14% {background: url(/Science/animasi/7.png); background-size:100% 100%;}
+  16% {background: url(/Science/animasi/8.png); background-size:100% 100%;}
+  /* 18% {background: url(/Science/animasi/9.png); background-size:100% 100%;} */
+  19% {background: url(/Science/animasi/10.png); background-size:100% 100%;}
+  22% {background: url(/Science/animasi/11.png); background-size:100% 100%;}
+  26% {background: url(/Science/animasi/12.png); background-size:100% 100%;}
+  28% {background: url(/Science/animasi/13.png); background-size:100% 100%;}
+  30% {background: url(/Science/animasi/14.png); background-size:100% 100%;}
+  /* 30% {background: url(/Science/animasi/15.png); background-size:100% 100%;} */
+  32% {background: url(/Science/animasi/16.png); background-size:100% 100%;}
+  34% {background: url(/Science/animasi/17.png); background-size:100% 100%;}
+  36% {background: url(/Science/animasi/18.png); background-size:100% 100%;}
+  /* 36% {background: url(/Science/animasi/19.png); background-size:100% 100%;} */
+  38% {background: url(/Science/animasi/20.png); background-size:100% 100%;}
+  40% {background: url(/Science/animasi/21.png); background-size:100% 100%;}
+  42% {background: url(/Science/animasi/22.png); background-size:100% 100%;}
+  44% {background: url(/Science/animasi/23.png); background-size:100% 100%;}
+  46% {background: url(/Science/animasi/24.png); background-size:100% 100%;}
+  48% {background: url(/Science/animasi/25.png); background-size:100% 100%;}
+  50% {background: url(/Science/animasi/26.png); background-size:100% 100%;}
+  52% {background: url(/Science/animasi/27.png); background-size:100% 100%;}
+  /* 54% {background: url(/Science/animasi/28.png); background-size:100% 100%;} */
+  56% {background: url(/Science/animasi/29.png); background-size:100% 100%;}
+  57% {background: url(/Science/animasi/30.png); background-size:100% 100%;}
+  58% {background: url(/Science/animasi/31.png); background-size:100% 100%;}
+  61% {background: url(/Science/animasi/32.png); background-size:100% 100%;}
+  64% {background: url(/Science/animasi/33.png); background-size:100% 100%;}
+  66% {background: url(/Science/animasi/34.png); background-size:100% 100%;}
+  68% {background: url(/Science/animasi/35.png); background-size:100% 100%;}
+  70% {background: url(/Science/animasi/36.png); background-size:100% 100%;}
+  72% {background: url(/Science/animasi/37.png); background-size:100% 100%;}
+  74% {background: url(/Science/animasi/38.png); background-size:100% 100%;}
+  76% {background: url(/Science/animasi/39.png); background-size:100% 100%;}
+  78% {background: url(/Science/animasi/40.png); background-size:100% 100%;}
+  /* 79% {background: url(/Science/animasi/41.png); background-size:100% 100%;} */
+  80% {background: url(/Science/animasi/42.png); background-size:100% 100%;}
+  82% {background: url(/Science/animasi/43.png); background-size:100% 100%;}
+  84% {background: url(/Science/animasi/44.png); background-size:100% 100%;}
+  /* 85% {background: url(/Science/animasi/45.png); background-size:100% 100%;} */
+  86% {background: url(/Science/animasi/46.png); background-size:100% 100%;}
+  88% {background: url(/Science/animasi/47.png); background-size:100% 100%;}
+  92% {background: url(/Science/animasi/48.png); background-size:100% 100%;}
+  93% {background: url(/Science/animasi/49.png); background-size:100% 100%;}
+  94% {background: url(/Science/animasi/50.png); background-size:100% 100%;}
+  95% {background: url(/Science/animasi/51.png); background-size:100% 100%;}
+  96% {background: url(/Science/animasi/52.png); background-size:100% 100%;}
+  100% {background: url(/Science/animasi/53.png); background-size:100% 100%;}
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500;600&display=swap');
+
+.sls{
+    background-color:#051937;
+   background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(https://sandpipercomms.com/wp-content/uploads/2021/08/shutterstock_1932042689-scaled.jpg);
+}
+
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+  font-family: 'Poppins', sans-serif;
+  border:100px;
+ animation-duration: 2s;
+        animation-timing-function: ease-in-out;
+        animation-delay: 6;
+        animation-iteration-count: 1;
+        animation-name: slideLeft;
+}
+/* @keyframes slideInLeft {
+        0% {
+          transform: translateX(-100%);
+        visible:hidden;
+        }
+  1%{
+    visibility:visible;
+    opacity:100;
+    
+  }
+  50%{
+    transform: translateX(0);
+  }
+  60%{
+    opacity:75
+  }
+  70%{
+    opacity:50;
+  }
+  80%{
+    opacity:25;
+  }
+  90%{
+    opacity:1
+  }
+        100% {
+          transform: translateX(0);
+  min-height:145vh;
+  width:100%;
+  left: 0px;
+  top: 0px;
+  background-color: white;
+          opacity:0;
+        }
+      }
+@keyframes slideLeft {
+          0% {
+          transform: translateX(-100%);
+            visibility:hidden;
+        }
+  99%{
+    transform: translateX(-1%);
+            visibility:hidden;
+        }
+        100% {
+          transform: translateX(0);
+        }
+      } */
+
+.ccc{
+  padding:30px;
+  background-image: linear-gradient(rgba(5,10,31,0.8), rgba(5,10,31,0.8)),url(https://sandpipercomms.com/wp-content/uploads/2021/08/shutterstock_1932042689-scaled.jpg);
+
+}
+.splash{
+  z-index: 1;
+  position: absolute;
+  min-height:145vh;
+  width:100%;
+  left: 0px;
+  top: 0px;
+  background-color: white;
+  justify-content:center;
+  text-align:center;
+  padding-top:450px;
+        animation-duration: 4s;
+        animation-timing-function: ease-in-out;
+        animation-delay: 0s;
+        animation-iteration-count: 1;
+        animation-name: slideInLeft;
+  visibility:hidden;
+}
+
+ 
+
+.cc{
+  color:#111;
+  font-family: 'Poppins', sans-serif;
+  background-color:#FFBE64;
+  text-align:center;
+  margin-left:130px;
+    margin-right:130px;
+  transition:0.5s;
+   animation-duration: 2s;
+        animation-timing-function: ease-in-out;
+        animation-delay: 6;
+        animation-iteration-count: 1;
+        animation-name: slideLeft;
+}
+
+.cc:hover{
+  background-color:#2D3647;
+  color:#fff;
+}
+.mySlides {
+  display: none;
+ animation-duration: 2s;
+        animation-timing-function: ease-in-out;
+        animation-delay: 6;
+        animation-iteration-count: 1;
+        animation-name: slideLeft;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  
+}
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.active, .dot:hover {
+  background-color: #717171;
+}
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+nav{
+  display:flex;
+  padding:2% 6%;
+  justify-content: space-between;
+  align-items:between;
+}
+.navbar{
+  flex:1;
+  text-align:center;  
+  border-radius: 10px;
+  background-color:#2D3647 ;
+  margin-left:15px;
+  font-family: 'Poppins', sans-serif;
+  margin-right:15px;
+  font-size:25px;
+   /* animation-duration: 2s;
+        animation-timing-function: ease-in-out;
+        animation-delay: 6;
+        animation-iteration-count: 1;
+        animation-name: slideLeft; */
+          visibility:visible;
+}
+.navbar ul li {
+  list-style:none;
+  display:inline-block;
+  padding: 12px 12px;
+  position:relative;
+  color: #999;
+  font-family: 'Poppins', sans-serif;
+}
+.navbar ul li::after {
+  content: '';
+  width:0%;
+  height:3px;
+  background:#DC143C;
+  display:block;
+  margin:auto;
+  transition:0.5s;
+}
+.navbar ul li:hover::after {
+  width:100%;
+  font-size:30px;
+}
+.navbar ul li a{
+  color: #6B7B9C;
+  text-decoration:none;
+  font-size:17px;
+  font-family: 'Poppins', sans-serif;
+  transition:0.5s;
+}
+
+.navbar ul li a:hover{
+  color:#fff;
+    font-size:20px;
+}
+
+
+.textbox{ 
+  font-size:25px;
+  color:#fff;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 1000;
+  margin-left:100px;
+  MARGIN-RIGHT:100PX;
+  text-align:center;
+  justify-content:center;
+  background-color:rgba(255,255,255, 0.2);
+  padding-top:50px;
+  padding-bottom:50px;
+  margin-bottom:0px;
+  font-family: 'Poppins', sans-serif;
+     /* animation-duration: 2s;
+        animation-timing-function: ease-in-out;
+        animation-delay: 6;
+        animation-name: slideLeft;
+ animation-iteration-count: 1; */
+}
+body {
+    background-image: linear-gradient(to bottom right, rgb(44, 0, 156), rgb(0, 53, 107));
+}
+
+
+.sls{
+  background-color:#051937;
+ background-image: linear-gradient(rgba(4,9,30,0.7), rgba(4,9,30,0.7)),url(https://sandpipercomms.com/wp-content/uploads/2021/08/shutterstock_1932042689-scaled.jpg);
+}
+
+.slideshow-container {
+max-width: 1000px;
+position: relative;
+margin: auto;
+font-family: 'Poppins', sans-serif;
+border:100px;
+animation-duration: 2s;
+      animation-timing-function: ease-in-out;
+      animation-delay: 6;
+      animation-iteration-count: 1;
+      animation-name: slideLeft;
+}
+@keyframes slideInLeft {
+      0% {
+        transform: translateX(-100%);
+      visible:hidden;
+      }
+1%{
+  visibility:visible;
+  opacity:100;
+  
+}
+50%{
+  transform: translateX(0);
+}
+60%{
+  opacity:75
+}
+70%{
+  opacity:50;
+}
+80%{
+  opacity:25;
+}
+90%{
+  opacity:1
+}
+      100% {
+        transform: translateX(0);
+min-height:145vh;
+width:100%;
+left: 0px;
+top: 0px;
+background-color: white;
+        opacity:0;
+      }
+    }
+@keyframes slideLeft {
+        0% {
+        transform: translateX(-100%);
+          visibility:hidden;
+      }
+99%{
+  transform: translateX(-1%);
+          visibility:hidden;
+      }
+      100% {
+        transform: translateX(0);
+      }
+    }
+
+.margin {
+  margin-top:40px;
+  margin-left:5px;
+}
+
+#myBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}
